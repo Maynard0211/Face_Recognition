@@ -1,0 +1,10 @@
+{
+  "trained": [
+    {
+      "name": "Nguyet",
+      "vectors": 45
+    }
+  ],
+  "failed": [],
+  "skipped": []
+}

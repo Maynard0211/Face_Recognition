@@ -1,0 +1,14 @@
+{
+  "trained": [
+    {
+      "name": "AnhAnh",
+      "vectors": 64
+    },
+    {
+      "name": "Nguyet",
+      "vectors": 45
+    }
+  ],
+  "failed": [],
+  "skipped": []
+}

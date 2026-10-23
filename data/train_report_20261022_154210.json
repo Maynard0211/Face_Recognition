@@ -1,0 +1,14 @@
+{
+  "trained": [],
+  "failed": [
+    {
+      "name": "NgocAnh",
+      "reason": "Chi co 0 anh hop le; can it nhat 3. Giu nguyen vector cu neu co."
+    },
+    {
+      "name": "Nguyet",
+      "reason": "Chi co 0 anh hop le; can it nhat 3. Giu nguyen vector cu neu co."
+    }
+  ],
+  "skipped": []
+}

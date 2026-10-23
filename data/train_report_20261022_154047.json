@@ -1,0 +1,560 @@
+{
+  "trained": [],
+  "failed": [
+    {
+      "name": "NgocAnh",
+      "reason": "Chi co 0 anh hop le; can it nhat 3. Giu nguyen vector cu neu co."
+    },
+    {
+      "name": "Nguyet",
+      "reason": "Chi co 0 anh hop le; can it nhat 3. Giu nguyen vector cu neu co."
+    }
+  ],
+  "skipped": [
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3695895444.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_373286813.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3750804449.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_376241419.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3785673040.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3790898718.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3798278638.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_382946168.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3833439645.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3833444526.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3885227414.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_388659678.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3898901990.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3953078937.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3971293562.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3983337562.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3997896164.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_3998384338.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4011787810.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4015684031.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4027036728.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4048803039.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4064009231.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4068753742.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4127847007.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4147059899.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4154991602.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4155823646.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4195594624.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4198693654.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4215969016.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4248865245.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4252577974.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4256594089.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4286165193.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4328073573.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4343887662.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4345084965.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4366180653.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4383514669.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4412631641.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4455280301.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_4461544167.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5238701010.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5244835491.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5282291289.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_529097325.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_531818307.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5330947379.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5336166599.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5339478961.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_535645205.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5415485598.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5426948555.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_543769672.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5455367067.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5474262159.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5549244296.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_558390117.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_43_5594290022.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Tue_Oct_13_2026_09_56_1352942614.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1451815993.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_154140953.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1553852393.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1574239.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1577878763.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1618257675.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_162033131.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1622008831.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1662999879.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1681579917.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_171728104.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1720425661.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1723601451.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1768361454.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1772197724.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_177441419.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1818576466.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1843888968.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1849762645.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1873770864.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1885056626.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1911804247.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1919948674.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1936028513.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1945551695.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_1949754401.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2031347819.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2052117372.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2075453274.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2082019417.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2088267399.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2122425293.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2125162613.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_216811776.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2172832155.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2198496252.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2236716088.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2248546740.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2251258564.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2268006251.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2327010075.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2351306266.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2351737660.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2374382486.jpg",
+      "reason": "Can dung 1 khuon mat, phat hien 0."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2378644882.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2382153454.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2469362562.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    },
+    {
+      "person": "Nguyet",
+      "file": "Wed_Oct_21_2026_15_32_2479804889.jpg",
+      "reason": "Khuon mat qua nho; lai gan camera hon."
+    }
+  ]
+}
